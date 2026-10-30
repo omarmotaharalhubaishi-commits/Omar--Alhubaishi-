@@ -1,0 +1,11 @@
+sort1 uses: Bubble sort
+
+How do you know?: It is fast on sorted data,but much slower on reversed and random datasets.
+
+sort2 uses: Merge sort 
+
+How do you know?: It is extremely fast and efficient across all datasets (sorted, reversed, and random).
+
+sort3 uses: Selection sort 
+
+How do you know?: It has a consistently slow performance regardless of whether the data is sorted or reversed.
